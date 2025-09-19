@@ -1,0 +1,9 @@
+Ideensammlung
+Ein Spiel entwickeln mit einer Highscore Rangliste - Pong/TicTacToe/Tetris
+Mitarbeiterliste + Kundenliste
+ToDo
+Fußball TippApp - Ergebnisse Raten und entsprechend Punkte bekommen
+Inventur App für Lebensmittel - Eingekaufte Produkte eintragen und Kategorisieren (Fleisch, Milchprodukte, Obst,...) + Benachrichtigung vor Verfallsdatum und wenn Bestang fast leer geht.
+
+
+Für Mitarbeiterliste + Kundenliste entschieden.
